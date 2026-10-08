@@ -1,0 +1,70 @@
+AI AWARENESS QUIZ - PART 2
+
+Student Name :Anisha Anil Barve      Batch : 9011
+Date : 08/10/2026 
+
+
+Section A — AI Companies, Models & Tools
+
+1. Meta  
+2. Google  
+3. Anthropic  
+4. xAI  
+5. Mistral AI  
+6. OpenAI  
+7. Video  
+8. Google  
+9. Image generation  
+10. Code development  
+
+Section B — Generative AI Concepts
+
+11. Large Language Model  
+12. AI that generates new content  
+13. An instruction given to an AI model  
+14. Instructions that define AI behavior  
+15. AI that works with multiple data types  
+16. A false or incorrect AI-generated answer  
+17. Units of text processed by an LLM  
+18. The amount of information an AI can process at once  
+19. Running a trained AI model to generate output  
+20. Training a pre-trained model on specific data  
+
+Section C — AI for Developers & Applications
+
+21. An AI system that performs tasks autonomously  
+22. An agent can perform actions and use tools  
+23. Allowing AI to interact with external tools  
+24. Model Context Protocol  
+25. To authenticate access to an AI service  
+26. A limit on API requests  
+27. AI-powered code editor  
+28. Documents and sources  
+29. Searching based on meaning  
+30. Coding, debugging, and documentation  
+
+Section D — Image, Video, Speech, Models & Hardware
+
+31. Converting speech into text  
+32. Converting text into speech  
+33. Text from images  
+34. An AI model that understands images  
+35. Generating videos from text  
+36. Generating images and other content  
+37. For parallel computations  
+38. Neural Processing Unit  
+39. Model data and intermediate computations  
+40. Running an AI model on the user's device  
+
+Section E — Advanced Awareness, Safety & Responsible AI
+
+41. A model with publicly available weights  
+42. Training a smaller model to imitate a larger model  
+43. Efficient fine-tuning of AI models  
+44. Mixture of Experts  
+45. A test used to evaluate AI performance  
+46. A safety control for AI applications  
+47. An attack using malicious instructions  
+48. Personally Identifiable Information  
+49. It may expose confidential information  
+50. Verify the answer using reliable sources.
